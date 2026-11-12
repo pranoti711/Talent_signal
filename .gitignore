@@ -1,0 +1,54 @@
+# ---------------------------------------------------------------
+# Secrets: never commit these
+# ---------------------------------------------------------------
+.env
+*.env
+!.env.example
+kaggle.json
+.kaggle/
+
+# ---------------------------------------------------------------
+# Raw and bulky data (downloaded by src/ingest.py)
+# ---------------------------------------------------------------
+data/raw/
+*.zip
+
+# Labelling files contain full job descriptions (third-party text)
+data/processed/label_sample.csv
+data/processed/label_sheet.xlsx
+
+# Keep the small result files used by Power BI and the README
+!data/processed/skill_premium_adjusted.csv
+!data/processed/extractor_eval.csv
+
+# ---------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# ---------------------------------------------------------------
+# Power BI
+# ---------------------------------------------------------------
+
+*.tmp
+# Uncomment the next line if the .pbix grows too large for GitHub (100 MB limit)
+# *.pbix
+
+# ---------------------------------------------------------------
+# Editors and operating systems
+# ---------------------------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Excel temporary lock files
+~$*.xlsx

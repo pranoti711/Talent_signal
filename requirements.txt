@@ -1,0 +1,8 @@
+kagglehub
+pandas
+numpy
+python-dotenv
+sqlalchemy
+psycopg2-binary
+openpyxl
+statsmodels

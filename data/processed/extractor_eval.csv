@@ -1,0 +1,15 @@
+,tp,fp,fn,precision,recall,group
+Leadership,0,1,0,0.0,,Soft Skill
+Project Management,2,0,0,1.0,1.0,Soft Skill
+Tableau,1,0,0,1.0,1.0,BI Tool
+Communication,4,0,0,1.0,1.0,Soft Skill
+Stakeholder Management,2,0,0,1.0,1.0,Soft Skill
+KPI/Metrics,1,0,0,1.0,1.0,Analytics
+Qlik,2,0,0,1.0,1.0,BI Tool
+Data Visualization,1,0,0,1.0,1.0,Analytics
+SQL,2,0,0,1.0,1.0,Programming
+Problem Solving,1,0,0,1.0,1.0,Soft Skill
+Jira,1,0,0,1.0,1.0,Business Tool
+Excel,2,0,0,1.0,1.0,BI Tool
+Power BI,1,0,0,1.0,1.0,BI Tool
+SAP,1,0,0,1.0,1.0,Business Tool
