@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="docs/assets/talent_signal_banner.png" alt="Talent Signal banner" width="100%">
-</p>
 
 # Talent Signal: Labour Market Intelligence Platform
 
@@ -284,4 +281,5 @@ python src/evaluate.py
 
 **Pranoti Munjankar**
 GitHub: [pranoti711](https://github.com/pranoti711)
+
 Linkedin:(www.linkedin.com/in/pranoti-munjankar-1760092b9)
